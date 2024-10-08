@@ -1,4 +1,3 @@
-package blogs_program;
 import javax.swing.*;
 import java.awt.event.*;
 
